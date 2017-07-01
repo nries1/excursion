@@ -2,9 +2,6 @@ html {
   background-color: black;
 }
 
-a {
-  color: seagreen;
-}
 
 h1 {
   color: white;
@@ -12,4 +9,16 @@ h1 {
 
 h2 {
   color: grey;
+}
+
+h1, h2, .link, .image {
+  text-align: center;
+}
+
+#copyright {
+  text-align: right;
+}
+
+.link {
+  color: green;
 }
