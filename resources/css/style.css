@@ -11,6 +11,11 @@ h2 {
   color: grey;
 }
 
+h1, h2, .link, # copyright {
+font-family: Verdana;
+}
+}
+
 h1, h2, .link, .image {
   text-align: center;
 }
