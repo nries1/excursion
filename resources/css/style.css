@@ -1,5 +1,15 @@
-h1 {
+html {
   background-color: black;
+}
+
+a {
+  color: seagreen;
+}
+
+h1 {
   color: white;
-  font-size: 20;
+}
+
+h2 {
+  color: grey;
 }
