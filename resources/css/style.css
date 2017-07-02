@@ -1,29 +1,30 @@
 html {
   background-color: black;
-}
-
-
-h1 {
+  text-align: center;
+  font-family: Verdana;
   color: white;
 }
 
-h2 {
-  color: grey;
+#discover {
+  font-size: 50px;
 }
 
-h1, h2, .link, # copyright {
-font-family: Verdana;
-}
+#personal {
+  font-weight: 300;
+  font-size: 42px;
 }
 
-h1, h2, .link, .image {
-  text-align: center;
+#remember {
+  color: gray;
+  font-size: 21px;
 }
 
 #copyright {
+  color: grey;
   text-align: right;
 }
 
-.link {
-  color: green;
+a {
+  color: Aquamarine;
+  font-size: 16px;
 }
